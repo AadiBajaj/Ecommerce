@@ -6,8 +6,6 @@ import ShopCategory from './Pages/ShopCategory';
 import Product from './Pages/Product';
 import Cart from './Pages/Cart';
 import Login from './Pages/LoginSignUp';
-import NewsLetter from '../src/Components/NewsLetter/NewsLetter';
-
 import Footer from '../src/Components/Footer/Footer';
 import skincare_banner from './Components/Assets/banner_skincare.png';
 import haircare_banner from './Components/Assets/banner_haircare.png';
