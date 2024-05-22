@@ -72,9 +72,9 @@ const signup = async ()=>{
             </div>
             <button onClick={()=>{state==="Login"?login():signup()}}>Continue</button>
             {state==="Welcome to the DermaDazz Family"?<p className="loginsignup-login">
-              Already have an account? <span onClick={()=>{setState("Login")}}>Login here</span>
+              Already have an account? <span className="option" onClick={()=>{setState("Login")}}>Login here</span>
             </p>:<p className="loginsignup-login">
-              Create an account? <span onClick={()=>{setState("Welcome to the DermaDazz Family")}}>Click here</span>
+              Create an account? <span className="option" onClick={()=>{setState("Welcome to the DermaDazz Family")}}>Click here</span>
             </p>}
             
             <div className="loginsignup-agree">

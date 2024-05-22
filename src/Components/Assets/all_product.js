@@ -389,7 +389,7 @@ let all_product = [
     image: p33_img,
     new_price: 799,
     old_price: 899,
-    description:"ooking for that snatched look before that much-awaited meeting or your best friend’s birthday dinner? The Multislayer Facesticks are an absolute gamechanger. Easy to draw and define, these on-the-go sticks will help you ace your makeup game and take it up a notch. The sticks deliver high pigment while also being smooth, creamy and light on the skin.",
+    description:"Looking for that snatched look before that much-awaited meeting or your best friend’s birthday dinner? The Multislayer Facesticks are an absolute gamechanger. Easy to draw and define, these on-the-go sticks will help you ace your makeup game and take it up a notch. The sticks deliver high pigment while also being smooth, creamy and light on the skin.",
     category_display:"Makeup, Contour",
 
   },

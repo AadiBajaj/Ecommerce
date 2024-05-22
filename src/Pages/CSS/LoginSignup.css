@@ -81,6 +81,9 @@
     font-size: 15px;
     font-weight: 500;
 }
+.option{
+    cursor:pointer;
+}
 @media(max-width: 600px){
     .loginsignup-container h1{
         font-size: 22px;
