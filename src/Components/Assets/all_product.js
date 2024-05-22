@@ -47,6 +47,7 @@ let all_product = [
     category_display:"SkinCare, Facewash",
   },
   {
+  
     id: 2,
     name: "Cetaphil : Gentle Skin Cleanser(125ml)",
     category: "SkinCare",
