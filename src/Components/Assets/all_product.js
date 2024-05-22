@@ -134,8 +134,8 @@ let all_product = [
     name: "Neutregena : UltraSheer Dry Touch Sunblock SPG 50+(80ml)",
     category: "SkinCare",
     image: p10_img,
-    new_price: 799,
-    old_price: 699,
+    new_price: 699,
+    old_price: 799,
     description:"Give your skin a boost of protection with Neutrogena® Ultra Sheer Dry Touch Sunblock SPF 50+ PA++++. Formulated with Advanced Helioplex™ XP Technology and an ultralight texture, it offers powerful protection against 5 signs of sun damage and harmful UVA/UVB rays, leaving no white cast.",
     category_display:"SkinCare, Sunscreen",
 

@@ -172,6 +172,50 @@
         gap: 10px;
     }
 }
+@media(max-width:450px){
+    .navbar{
+        padding: 10px 10px;
+    }
+    .nav-logo img{
+        width: 40px;
+    }
+    .nav-logo p{
+        font-size: 16px;
+    }
+    .nav-menu-visible{
+        height: 60px;
+        top: 50px;
+        margin-top: 0px;
+    }
+    .nav-login-cart{
+        transform: scale(0.7);
+        gap: 10px; /* Add space between cart logo and login */
+        justify-content: flex-end; /* Align items to the right */
+    } 
+    .nav-login-cart button{
+        width: 100px;
+        height: 35px;
+        font-size: 16px;
+    }
+    .nav-login-cart img{
+        width: 25px;
+    }
+    .nav-cart-count{
+        width: 15px;
+        height: 15px;
+        font-size: 12px;
+        margin-left: -10px; /* Adjusted positioning */
+        margin-top: -15px; /* Adjusted positioning */
+    }
+    .nav-menu{
+        width: 90%; /* Make dropdown menu smaller */
+    }
+    .dropdown{
+        width: 25px /* Make the dropdown image smaller */
+    }
+}
+
+
 
 /* .navbar{  
     display: flex;  
